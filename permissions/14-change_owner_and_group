@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -f vicent -h chgrp staff *
+chown --from=vicent:staff *
